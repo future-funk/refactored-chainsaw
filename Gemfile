@@ -1,1 +1,1 @@
-gem "rails", "5.1"
+gem "rails", "6.0.1"
